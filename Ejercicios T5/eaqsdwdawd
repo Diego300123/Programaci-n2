@@ -1,0 +1,5 @@
+def count_word(my_text):
+    """Count the words in a text and save in a dictionary.
+
+    
+    """

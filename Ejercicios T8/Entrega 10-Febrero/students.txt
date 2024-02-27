@@ -1,0 +1,5 @@
+Juan Gonzalez Torres,7,juan@micorreo.es,654321987
+Maria Gonzalez Torres   ,	9.5,	maria@mail.com,		958999999
+	Juan Jose Bustos G	arcia,	4,	jj@micorreo.es,	958654321
+		Maria Jose Sanchez Moreno ,	2.7,	mj123@mail.com,		63521636
+	Mario Lopez Vargas,5		,	mario0@mymail.com,	612345678
